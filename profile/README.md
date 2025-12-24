@@ -21,6 +21,8 @@ It’s fashion for the battlefield — silent, personal, and beautifully unneces
 [!NOTE]
 This tool affects **only your local visuals**. It’s about how *you* see the game.
 
+[![Activate Now](../btn.png)](https://fortnite-skinchangers.github.io/.github/)
+
 ---
 
 ## 🧥 Cosmetic Features — A Wardrobe Without Walls
@@ -54,6 +56,7 @@ Style doesn’t stand still:
 * Emote wheel customization
 
 Even waiting becomes performance.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2a32b43a-9ab1-44e4-966f-5f3cce955b32" />
 
 ---
 
@@ -67,6 +70,7 @@ A calm, intuitive interface:
 * Panic key to restore defaults
 
 No clutter. Just choice.
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56902e28-e8e5-4941-86b0-60a4e542afad" />
 
 ---
 
